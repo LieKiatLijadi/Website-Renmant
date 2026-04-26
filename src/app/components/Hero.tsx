@@ -22,7 +22,7 @@ export function Hero({ title, subtitle, ctaText }: HeroProps) {
       <div className="relative z-10 max-w-4xl mx-auto text-center px-4">
         <div className="mb-8 flex justify-center">
           <div className="bg-emerald-500/20 p-6 rounded-full backdrop-blur-sm">
-            <img src="/src/imports/Untitled design (3).png" alt="Logo" className="w-16 h-16" />
+            <img src="https://i.ibb.co.com/JWQG17qH/Untitled-design-3.png" alt="Logo" className="w-16 h-16" />
           </div>
         </div>
         <h1 className="mb-6 text-white text-5xl md:text-6xl">Renmant</h1>
